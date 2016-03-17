@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\ASProjects\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dot_white.png",
+        "source": "E:\\ASProjects\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\dot_white.png"
+    },
+    {
+        "merged": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\defaultflashview.png",
+        "source": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\defaultflashview.png"
+    },
+    {
+        "merged": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\image_holder.xml",
+        "source": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\image_holder.xml"
+    },
+    {
+        "merged": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dot_white.png",
+        "source": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\dot_white.png"
+    },
+    {
+        "merged": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dot_light.png",
+        "source": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\dot_light.png"
+    },
+    {
+        "merged": "E:\\ASProjects\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\ASProjects\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASProjects\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\image_holder.xml",
+        "source": "E:\\ASProjects\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\image_holder.xml"
+    },
+    {
+        "merged": "E:\\ASProjects\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dot_light.png",
+        "source": "E:\\ASProjects\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\dot_light.png"
+    },
+    {
+        "merged": "E:\\ASProjects\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\defaultflashview.png",
+        "source": "E:\\ASProjects\\FlashViewDemo\\flashview\\src\\main\\res\\drawable-hdpi\\defaultflashview.png"
+    }
+]

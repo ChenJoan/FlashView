@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "E:\\ASProjects\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 46,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "E:\\ASProjects\\FlashViewDemo\\flashview\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 46,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 52,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "E:\\ASProjects\\FlashViewDemo\\flashview\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 46,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 46,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 52,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\OpenScource\\lunbotu\\FlashViewDemo\\flashview\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            }
+        ]
+    }
+]
